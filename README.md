@@ -11,6 +11,13 @@
 
 
 ---
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,cs,php,ruby,go,rust,kotlin,swift" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,tailwind,bootstrap,sass,webpack,vite,threejs" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,laravel,spring,rails" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase,supabase" />
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws,azure,gcp,terraform,ansible,jenkins,github,gitlab" />
+<img src="https://skillicons.dev/icons?i=linux,bash,powershell,vscode,idea,androidstudio,neovim" />
+<img src="https://skillicons.dev/icons?i=burpsuite,wireshark,metasploit,nmap,tor" />
 
 
 
