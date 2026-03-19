@@ -14,73 +14,120 @@
 
 <p align="center">
 
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/osama.de.155497" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook%20(1)-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-
-  <a href="https://www.facebook.com/taha.dev0" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook%20(2)-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-
-  <!-- Telegram -->
-  <a href="https://t.me/tahadev0" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-
-  <a href="https://t.me/@taha_dev0_bot" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram%20Bot-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/taha.dev0" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-  <!-- TikTok -->
-  <a href="https://www.tiktok.com/@taha.dev0" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/ps91andr" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
-</p>
-
----
-
 <p align="center">
-
-  <!-- Facebook -->
-  <a href="https://www.facebook.com/taha.dev0" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-  </a>
-
-  <!-- Telegram -->
-  <a href="https://t.me/tahadev0" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-  </a>
-
-  <!-- Instagram -->
-  <a href="https://www.instagram.com/taha.dev0" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
-
-  <!-- TikTok -->
-  <a href="https://www.tiktok.com/@taha.dev0" target="_blank">
-    <img src="https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-  </a>
-
-  <!-- GitHub -->
-  <a href="https://github.com/ps91andr" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-
+  <table>
+    <tr>
+      <!-- Facebook 1 -->
+      <td align="center">
+        <a href="https://www.facebook.com/taha.dev0" target="_blank">
+          <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/facebook.svg" width="45" />
+        </a><br/>
+        <a href="https://www.facebook.com/taha.dev0" target="_blank">
+          <img src="https://img.shields.io/badge/Facebook%20( @taha.dev0 )-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+        </a>
+      </td>
+      <!-- Messenger 1 -->
+      <td align="center">
+        <a href="https://m.me/taha.dev0" target="_blank">
+          <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/facebook-messenger.svg" width="45" />
+        </a><br/>
+        <a href="https://m.me/taha.dev0" target="_blank">
+          <img src="https://img.shields.io/badge/Messenger( @taha.dev0 )-0084FF?style=for-the-badge&logo=messenger&logoColor=white" />
+        </a>
+      </td>
+      <!-- Facebook 2 -->
+      <td align="center">
+        <a href="https://www.facebook.com/osama.de.155497" target="_blank">
+          <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/facebook.svg" width="45" />
+        </a><br/>
+        <a href="https://www.facebook.com/osama.de.155497" target="_blank">
+          <img src="https://img.shields.io/badge/Facebook%20( @osama.de.155497 )-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <!-- Messenger 2 -->
+      <td align="center">
+        <a href="https://m.me/osama.de.155497" target="_blank">
+          <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/facebook-messenger.svg" width="45" />
+        </a><br/>
+        <a href="https://m.me/osama.de.155497" target="_blank">
+          <img src="https://img.shields.io/badge/Messenger( @osama.de.155497 )-0084FF?style=for-the-badge&logo=messenger&logoColor=white" />
+        </a>
+      </td>
+      <!-- Telegram -->
+      <td align="center">
+        <a href="https://t.me/tahadev0" target="_blank">
+          <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/telegram.svg" width="45" />
+        </a><br/>
+        <a href="https://t.me/tahadev0" target="_blank">
+          <img src="https://img.shields.io/badge/Telegram%20( @tahadev0 )-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+        </a>
+      </td>
+            <!-- Telegram 2-->
+      <td align="center">
+        <a href="https://t.me/taha.dev0" target="_blank">
+          <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/telegram.svg" width="45" />
+        </a><br/>
+        <a href="https://t.me/taha.dev0" target="_blank">
+          <img src="https://img.shields.io/badge/Telegram%20( @taha.dev0 )-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+        </a>
+      </td>
+                  <!-- Telegram 3-->
+      <td align="center">
+        <a href="https://t.me/@taha_dev0_bot" target="_blank">
+          <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/telegram.svg" width="45" />
+        </a><br/>
+        <a href="https://t.me/@taha_dev0_bot" target="_blank">
+          <img src="https://img.shields.io/badge/Telegram%20( @taha_dev0_bot )-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+        </a>
+      </td>
+      <!-- Instagram -->
+      <td align="center">
+        <a href="https://www.instagram.com/taha.dev0" target="_blank">
+          <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/instagram.svg" width="45" />
+        </a><br/>
+        <a href="https://www.instagram.com/taha.dev0" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram%20( @taha.dev0 )-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <!-- TikTok -->
+      <td align="center">
+        <a href="https://www.tiktok.com/@taha.dev0" target="_blank">
+          <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tiktok.svg" width="45" />
+        </a><br/>
+        <a href="https://www.tiktok.com/@taha.dev0" target="_blank">
+          <img src="https://img.shields.io/badge/TikTok%20( @taha.dev0 )-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+        </a>
+      </td>
+      <!-- GitHub 1 -->
+      <td align="center">
+        <a href="https://github.com/TahaDev0" target="_blank">
+          <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/github-light.svg" width="45" />
+        </a><br/>
+        <a href="https://github.com/TahaDev0" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub%20( TahaDev0 )-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
+      <!-- GitHub 2 -->
+      <td align="center">
+        <a href="https://github.com/ps91andr" target="_blank">
+          <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/github-light.svg" width="45" />
+        </a><br/>
+        <a href="https://github.com/ps91andr" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub%20( ps91andr )-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+      </td>
+    </tr>
+  </table>
 </p>
 
-<img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/telegram.svg" width="40" />
+
+
+
+
 
 ## 🧰 Tech Stack
 
