@@ -139,8 +139,20 @@
 
 ## 🧰 Tech Stack
 
+
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,django,git,github,docker,linux" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,django,flask,java,cpp,cs,php,go,rust,ruby,kotlin,swift" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=linux,bash,powershell,git,github,gitlab,docker,kubernetes,nginx,aws,azure,gcp,terraform,ansible" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,firebase,supabase" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,webpack,vite,threejs" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=vim,neovim,vscode,idea,androidstudio" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=burpsuite,wireshark,metasploit,nmap,tor" />
 </p>
 
 ---
