@@ -1,21 +1,26 @@
 # taha-dev-social-hub
 ✨ repository that brings together all my social platforms and account links, along with my professional communication channels as a developer, in one organized central point that makes it easier to connect with me and ensures faster access and smoother interaction.
-
-
-<h1 align="center">Hi, I'm Taha 👋</h1>
-
 <p align="center">
-  <b>Full‑Stack Developer | Open‑Source Enthusiast | Tech Explorer</b>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=🧑‍💼%20About%20Me%20|%20taha-dev-social-hub&fontSize=24&fontAlignY=70" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=🧑‍💼%20Hi,%20I'm%20Taha%20👋%20|%20Developer%20part%20of%20the%20Development%20Team&fontSize=24&fontAlignY=70" /> 
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=🧑‍💼%20Stack%20Developer%20|%20Open‑Source%20Enthusiast%20|%20Tech%20Explorer&fontSize=24&fontAlignY=70" /> 
+</div>
+
+
 
 ---
+
+
+
+
 
 ## 📬 Connect With Me
 
 <p align="center">
-
-<p align="center">
   <table>
+    <!-- Row 1 -->
     <tr>
       <!-- Facebook 1 -->
       <td align="center">
@@ -45,6 +50,7 @@
         </a>
       </td>
     </tr>
+    <!-- Row 2 -->
     <tr>
       <!-- Messenger 2 -->
       <td align="center">
@@ -55,7 +61,7 @@
           <img src="https://img.shields.io/badge/Messenger( @osama.de.155497 )-0084FF?style=for-the-badge&logo=messenger&logoColor=white" />
         </a>
       </td>
-      <!-- Telegram -->
+      <!-- Telegram 1 -->
       <td align="center">
         <a href="https://t.me/tahadev0" target="_blank">
           <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/telegram.svg" width="45" />
@@ -64,7 +70,7 @@
           <img src="https://img.shields.io/badge/Telegram%20( @tahadev0 )-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
         </a>
       </td>
-            <!-- Telegram 2-->
+      <!-- Telegram 2 -->
       <td align="center">
         <a href="https://t.me/taha.dev0" target="_blank">
           <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/telegram.svg" width="45" />
@@ -73,7 +79,10 @@
           <img src="https://img.shields.io/badge/Telegram%20( @taha.dev0 )-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
         </a>
       </td>
-                  <!-- Telegram 3-->
+    </tr>
+    <!-- Row 3 -->
+    <tr>
+      <!-- Telegram Bot -->
       <td align="center">
         <a href="https://t.me/@taha_dev0_bot" target="_blank">
           <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/telegram.svg" width="45" />
@@ -91,8 +100,6 @@
           <img src="https://img.shields.io/badge/Instagram%20( @taha.dev0 )-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
         </a>
       </td>
-    </tr>
-    <tr>
       <!-- TikTok -->
       <td align="center">
         <a href="https://www.tiktok.com/@taha.dev0" target="_blank">
@@ -102,6 +109,9 @@
           <img src="https://img.shields.io/badge/TikTok%20( @taha.dev0 )-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
         </a>
       </td>
+    </tr>
+    <!-- Row 4 -->
+    <tr>
       <!-- GitHub 1 -->
       <td align="center">
         <a href="https://github.com/TahaDev0" target="_blank">
@@ -120,13 +130,11 @@
           <img src="https://img.shields.io/badge/GitHub%20( ps91andr )-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </td>
+      <!-- Empty for balance -->
+      <td></td>
     </tr>
   </table>
 </p>
-
-
-
-
 
 
 ## 🧰 Tech Stack
@@ -144,7 +152,11 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=ps91andr&theme=tokyonight" />
 </p>
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TahaDev0&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahaDev0&theme=tokyonight" />
+</p>
 ---
 
 ## 🚀 About Me
