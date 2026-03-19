@@ -191,3 +191,20 @@
 ## ⭐ Support
 
 If you like my work, consider giving a ⭐ to my repositories!
+
+
+🌟 - New Project
+
+### Tier-1: New Projects
+
+| Name                                                                              | Short Description                                          | Tier       |
+| --------------------------------------------------------------------------------- | ---------------------------------------------------------- | ---------- |
+| [Excel-Password-VBA-Sheets-Remover](https://github.com/TahaDev0/Excel-Password-VBA-Sheets-Remover)                                   | Excel-Password-VBA-Sheets-Remover                         | 1-Beginner |
+| [Access-Password-Remover](https://github.com/TahaDev0/Access-Password-Remover)       | Access-Password-Remover    | 1-Beginner |
+| [PowerPoint-Protection-Password-Remover](https://github.com/TahaDev0/PowerPoint-Protection-Remover)                             | PowerPoint-Protection-Password-Remover                                                 | 1-Beginner |
+| [Word-Protection-Password-Remover](https://github.com/TahaDev0/Word-Protection-Remover)                 | Word-Protection-Password-Remover                     | 1-Beginner |
+| [Office-Protection-Password-Remover-All-in-One](https://github.com/ps91andr/Office-Protection-Remover)                     | Office-Protection-Password-Remover-All-in-One                    | 1-Beginner |
+
+
+
+
