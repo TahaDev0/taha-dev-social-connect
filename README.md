@@ -133,8 +133,15 @@
           <img src="https://img.shields.io/badge/GitHub%20( ps91andr )-181717?style=for-the-badge&logo=github&logoColor=white" />
         </a>
       </td>
-      <!-- Empty for balance -->
-      <td></td>
+      <!-- whatsapp -->
+      <td align="center">
+        <a href="https://api.whatsapp.com/send?phone=967779373666" target="_blank">
+          <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/whatsapp.svg" width="45" />
+        </a><br/>
+        <a href="https://api.whatsapp.com/send?phone=967779373666" target="_blank">
+          <img src="https://img.shields.io/badge/WhatsApp%20(967779373666)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+        </a>
+      </td>      
     </tr>
   </table>
 </p>
