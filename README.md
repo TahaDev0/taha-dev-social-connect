@@ -8,6 +8,128 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=🧑‍💼%20Stack%20Developer%20|%20Open‑Source%20Enthusiast%20|%20Tech%20Explorer&fontSize=24&fontAlignY=70" /> 
 </div>
 
+---
+<p align="center">
+  <table>
+    <!-- الصف 1 -->
+    <tr>
+      <!-- Facebook (TAHA.DEVO) -->
+      <td align="center">
+        <a href="https://www.facebook.com/taha.devo" target="_blank">
+          <img src="https://cdn.simpleicons.org/facebook/0644ff" width="45" height="45" />
+        </a><br/>
+        <a href="https://www.facebook.com/taha.devo" target="_blank">
+          <img src="https://img.shields.io/badge/Facebook%20(TAHA.DEVO)-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+        </a>
+       </td>
+      <!-- Messenger (TAHA.DEVO) -->
+      <td align="center">
+        <a href="https://m.me/taha.devo" target="_blank">
+          <img src="https://cdn.simpleicons.org/messenger/00B2FF" width="45" height="45" />
+        </a><br/>
+        <a href="https://m.me/taha.devo" target="_blank">
+          <img src="https://img.shields.io/badge/Messenger%20(TAHA.DEVO)-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />
+        </a>
+       </td>
+      <!-- Facebook (osama.de.155497) -->
+      <td align="center">
+        <a href="https://www.facebook.com/osama.de.155497" target="_blank">
+          <img src="https://cdn.simpleicons.org/facebook/0644ff" width="45" height="45" />
+        </a><br/>
+        <a href="https://www.facebook.com/osama.de.155497" target="_blank">
+          <img src="https://img.shields.io/badge/Facebook%20(osama.de.155497)-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+        </a>
+       </td>
+    </tr>    
+    <tr>
+      <!-- Messenger (osama.de.155497) -->
+      <td align="center">
+        <a href="https://m.me/osama.de.155497" target="_blank">
+          <img src="https://cdn.simpleicons.org/messenger/00B2FF" width="45" height="45" />
+        </a><br/>
+        <a href="https://m.me/osama.de.155497" target="_blank">
+          <img src="https://img.shields.io/badge/Messenger%20(osama.de.155497)-00B2FF?style=for-the-badge&logo=messenger&logoColor=white" />
+        </a>
+       </td>
+      <!-- Telegram (TAHA.DEVO) -->
+      <td align="center">
+        <a href="https://t.me/taha_devo" target="_blank">
+          <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="45" height="45" />
+        </a><br/>
+        <a href="https://t.me/taha_devo" target="_blank">
+          <img src="https://img.shields.io/badge/Telegram%20(TAHA.DEVO)-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+        </a>
+       </td>
+      <!-- Telegram (TAHA.DEVO) مكرر -->
+      <td align="center">
+        <a href="https://t.me/taha_devo" target="_blank">
+          <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="45" height="45" />
+        </a><br/>
+        <a href="https://t.me/taha_devo" target="_blank">
+          <img src="https://img.shields.io/badge/Telegram%20(TAHA.DEVO)-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+        </a>
+       </td>
+    </tr>
+    <tr>
+      <!-- Telegram Bot -->
+      <td align="center">
+        <a href="https://t.me/taha_devo_bot" target="_blank">
+          <img src="https://cdn.simpleicons.org/telegram/26A5E4" width="45" height="45" />
+        </a><br/>
+        <a href="https://t.me/taha_devo_bot" target="_blank">
+          <img src="https://img.shields.io/badge/Telegram%20Bot%20(TAHA.DEV0)-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+        </a>
+       </td>
+      <!-- Instagram (TAHA.DEVO) -->
+      <td align="center">
+        <a href="https://www.instagram.com/taha.devo" target="_blank">
+          <img src="https://cdn.simpleicons.org/instagram/E4405F" width="45" height="45" />
+        </a><br/>
+        <a href="https://www.instagram.com/taha.devo" target="_blank">
+          <img src="https://img.shields.io/badge/Instagram%20(TAHA.DEVO)-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+        </a>
+       </td>
+      <!-- TikTok (TAHA.DEVO) -->
+      <td align="center">
+        <a href="https://www.tiktok.com/@taha.devo" target="_blank">
+          <img src="https://cdn.simpleicons.org/tiktok/FFFFFF" width="45" height="45" />
+        </a><br/>
+        <a href="https://www.tiktok.com/@taha.devo" target="_blank">
+          <img src="https://img.shields.io/badge/TikTok%20(TAHA.DEVO)-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
+        </a>
+       </td>
+    </tr>
+    <tr>
+      <!-- GitHub (TAHADEVO) -->
+      <td align="center">
+        <a href="https://github.com/TahaDev0" target="_blank">
+          <img src="https://cdn.simpleicons.org/github/FFFFFF" width="45" height="45" />
+        </a><br/>
+        <a href="https://github.com/TahaDev0" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub%20(TAHADEVO)-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+       </td>
+      <!-- GitHub (PS91ANDR) -->
+      <td align="center">
+        <a href="https://github.com/ps91andr" target="_blank">
+          <img src="https://cdn.simpleicons.org/github/FFFFFF" width="45" height="45" />
+        </a><br/>
+        <a href="https://github.com/ps91andr" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub%20(PS91ANDR)-181717?style=for-the-badge&logo=github&logoColor=white" />
+        </a>
+       </td>
+      <!-- WhatsApp (967779373666) -->
+      <td align="center">
+        <a href="https://api.whatsapp.com/send?phone=967779373666" target="_blank">
+          <img src="https://cdn.simpleicons.org/whatsapp/25D366" width="45" height="45" />
+        </a><br/>
+        <a href="https://api.whatsapp.com/send?phone=967779373666" target="_blank">
+          <img src="https://img.shields.io/badge/WhatsApp%20(967779373666)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+        </a>
+       </td>
+    </tr>
+  </table>
+</p>
 
 ---
 <div align="center">
