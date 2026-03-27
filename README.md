@@ -9,21 +9,17 @@
 </div>
 
 
-
 ---
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,cs,php,ruby,go,rust,kotlin,swift" />
-<img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,tailwind,bootstrap,sass,webpack,vite,threejs" />
-<img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,laravel,spring,rails" />
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,redis,sqlite,firebase,supabase" />
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,aws,azure,gcp,terraform,ansible,jenkins,github,gitlab" />
-<img src="https://skillicons.dev/icons?i=linux,bash,powershell,vscode,idea,androidstudio,neovim" />
-<img src="https://skillicons.dev/icons?i=burpsuite,wireshark,metasploit,nmap,tor" />
+<div align="center">
+  <h1>
+    🚀 <span style="color: #2E86C1;">📬✨ للتواصل معي -  Connect With Me</span> 🚀
+  </h1>
+  </p>
+  <hr/>
+</div
 
-
-
-
-
-## 📬 Connect With Me
+<hr/>
+## 📬 Connect With Me - التواصل معي  ارسال كود التفعيل للبرامج (التفعيل مجانا)
 
 <p align="center">
   <table>
@@ -144,23 +140,25 @@
 </p>
 
 
-## 🧰 Tech Stack
-
-
-
+---
+## 🧰 Tech Stack 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,django,flask,java,cpp,cs,php,go,rust,ruby,kotlin,swift" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,cs,php,ruby,go,rust,kotlin,swift" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=linux,bash,powershell,git,github,gitlab,docker,kubernetes,nginx,aws,azure,gcp,terraform,ansible" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vue,nuxt,angular,tailwind,bootstrap,sass,webpack,vite,threejs" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,django,flask,fastapi,laravel,spring,rails" />
   <br/>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,redis,sqlite,firebase,supabase" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=tailwind,bootstrap,sass,webpack,vite,threejs" />
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,nginx,jenkins,github,gitlab,aws,azure,gcp,terraform,ansible" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=vim,neovim,vscode,idea,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=linux,bash,powershell,git,vscode,idea,androidstudio,neovim" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=burpsuite,wireshark,metasploit,nmap,tor" />
+  <img src="https://skillicons.dev/icons?i=burpsuite,wireshark,metasploit,nmap,tor,kali" />
+  <br/>
 </p>
+
 
 ---
 
@@ -176,6 +174,8 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=TahaDev0&theme=tokyonight" />
 </p>
+
+
 ---
 
 ## 🚀 About Me
