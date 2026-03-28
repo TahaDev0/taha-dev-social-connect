@@ -10,8 +10,15 @@ html {
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&text=🧑‍💼%20Stack%20Developer%20|%20Open‑Source%20Enthusiast%20|%20Tech%20Explorer&fontSize=24&fontAlignY=70" /> 
 </div>
+<h1 align="center">  📥  | اضغط  للانتقال لـ اسفل الصفحة لـ للبرامج</h1>
+<div align="center">
+<a href="#new-projects" style="scroll-behavior: smooth;">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Click%20here%20to%20scroll%20to%20projects%20page%7C%D8%A7%D8%B6%D8%BA%D8%B7%20%D9%87%D9%86%D8%A7%20%D9%84%D9%84%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84%20%D9%84%D9%82%D8%B3%D9%85%20%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9&fontSize=20&fontAlignY=70" />
+</a>
 
 ---
+---
+
 
 <div align="center">
   <h1>
@@ -144,14 +151,7 @@ html {
 </p>
 
 ---
-<h1 align="center">  📥  | اضغط للانتقال لت اسفل الصفحة للبرامج</h1>
-<div align="center">
 
-<a href="#new-projects" style="scroll-behavior: smooth;">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Click%20here%20to%20scroll%20to%20projects%20page%7C%D8%A7%D8%B6%D8%BA%D8%B7%20%D9%87%D9%86%D8%A7%20%D9%84%D9%84%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84%20%D9%84%D9%82%D8%B3%D9%85%20%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9&fontSize=20&fontAlignY=70" />
-</a>
-
----
 
 ## 🧰 Tech Stack 
 <p align="center">
