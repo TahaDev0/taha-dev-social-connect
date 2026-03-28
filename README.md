@@ -205,7 +205,7 @@ If you like my work, consider giving a ⭐ to my repositories!
 
 
 
-### Tier-1: New Projects
+
 <div id="new-projects">
   <h2>🌟 - New Project</h2>
   <h3>Tier-1: New Projects</h3>
