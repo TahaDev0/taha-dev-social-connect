@@ -9,6 +9,15 @@
 </div>
 
 ---
+
+<div align="center">
+  <h1>
+    🚀 <span style="color: #2E86C1;">📬✨ للتواصل معي -  Connect With Me</span> 🚀
+  </h1>
+  </p>
+  <hr/>
+</div
+
 <p align="center">
   <table>
     <!-- الصف 1 -->
@@ -132,144 +141,17 @@
 </p>
 
 ---
+<h1 align="center">  📥 page Apps | صفحة البرامج</h1>
 <div align="center">
-  <h1>
-    🚀 <span style="color: #2E86C1;">📬✨ للتواصل معي -  Connect With Me</span> 🚀
-  </h1>
-  </p>
-  <hr/>
-</div
+  <a href="https://github.com/TahaDev0/taha-dev-social-connect" target="_blank" rel="noopener noreferrer">
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Click%20here%20to%20open%20the%20programs%20page%20%7C%20%D8%A7%D8%B6%D8%BA%D8%B7%20%D9%87%D9%86%D8%A7%20%D9%84%D8%AF%D8%AE%D9%88%D9%84%20%D9%84%D8%B5%D9%81%D8%AD%D8%A9%20%D8%A7%D9%84%D8%A8%D8%B1%D8%A7%D9%85%D8%AC&fontSize=20&fontAlignY=70" />
+  </a>
+</div>
 
-<hr/>
-## 📬 Connect With Me - التواصل معي  ارسال كود التفعيل للبرامج (التفعيل مجانا)
-
-<p align="center">
-  <table>
-    <!-- Row 1 -->
-    <tr>
-      <!-- Facebook 1 -->
-      <td align="center">
-        <a href="https://www.facebook.com/taha.dev0" target="_blank">
-          <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/facebook.svg" width="45" />
-        </a><br/>
-        <a href="https://www.facebook.com/taha.dev0" target="_blank">
-          <img src="https://img.shields.io/badge/Facebook%20( @taha.dev0 )-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-        </a>
-      </td>
-      <!-- Messenger 1 -->
-      <td align="center">
-        <a href="https://m.me/taha.dev0" target="_blank">
-          <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/facebook-messenger.svg" width="45" />
-        </a><br/>
-        <a href="https://m.me/taha.dev0" target="_blank">
-          <img src="https://img.shields.io/badge/Messenger( @taha.dev0 )-0084FF?style=for-the-badge&logo=messenger&logoColor=white" />
-        </a>
-      </td>
-      <!-- Facebook 2 -->
-      <td align="center">
-        <a href="https://www.facebook.com/osama.de.155497" target="_blank">
-          <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/facebook.svg" width="45" />
-        </a><br/>
-        <a href="https://www.facebook.com/osama.de.155497" target="_blank">
-          <img src="https://img.shields.io/badge/Facebook%20( @osama.de.155497 )-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-    <!-- Row 2 -->
-    <tr>
-      <!-- Messenger 2 -->
-      <td align="center">
-        <a href="https://m.me/osama.de.155497" target="_blank">
-          <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/facebook-messenger.svg" width="45" />
-        </a><br/>
-        <a href="https://m.me/osama.de.155497" target="_blank">
-          <img src="https://img.shields.io/badge/Messenger( @osama.de.155497 )-0084FF?style=for-the-badge&logo=messenger&logoColor=white" />
-        </a>
-      </td>
-      <!-- Telegram 1 -->
-      <td align="center">
-        <a href="https://t.me/tahadev0" target="_blank">
-          <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/telegram.svg" width="45" />
-        </a><br/>
-        <a href="https://t.me/tahadev0" target="_blank">
-          <img src="https://img.shields.io/badge/Telegram%20( @tahadev0 )-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-        </a>
-      </td>
-      <!-- Telegram 2 -->
-      <td align="center">
-        <a href="https://t.me/taha.dev0" target="_blank">
-          <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/telegram.svg" width="45" />
-        </a><br/>
-        <a href="https://t.me/taha.dev0" target="_blank">
-          <img src="https://img.shields.io/badge/Telegram%20( @taha.dev0 )-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-    <!-- Row 3 -->
-    <tr>
-      <!-- Telegram Bot -->
-      <td align="center">
-        <a href="https://t.me/@taha_dev0_bot" target="_blank">
-          <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/telegram.svg" width="45" />
-        </a><br/>
-        <a href="https://t.me/@taha_dev0_bot" target="_blank">
-          <img src="https://img.shields.io/badge/Telegram%20( @taha_dev0_bot )-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
-        </a>
-      </td>
-      <!-- Instagram -->
-      <td align="center">
-        <a href="https://www.instagram.com/taha.dev0" target="_blank">
-          <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/instagram.svg" width="45" />
-        </a><br/>
-        <a href="https://www.instagram.com/taha.dev0" target="_blank">
-          <img src="https://img.shields.io/badge/Instagram%20( @taha.dev0 )-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-        </a>
-      </td>
-      <!-- TikTok -->
-      <td align="center">
-        <a href="https://www.tiktok.com/@taha.dev0" target="_blank">
-          <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/tiktok.svg" width="45" />
-        </a><br/>
-        <a href="https://www.tiktok.com/@taha.dev0" target="_blank">
-          <img src="https://img.shields.io/badge/TikTok%20( @taha.dev0 )-000000?style=for-the-badge&logo=tiktok&logoColor=white" />
-        </a>
-      </td>
-    </tr>
-    <!-- Row 4 -->
-    <tr>
-      <!-- GitHub 1 -->
-      <td align="center">
-        <a href="https://github.com/TahaDev0" target="_blank">
-          <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/github-light.svg" width="45" />
-        </a><br/>
-        <a href="https://github.com/TahaDev0" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub%20( TahaDev0 )-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </td>
-      <!-- GitHub 2 -->
-      <td align="center">
-        <a href="https://github.com/ps91andr" target="_blank">
-          <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/github-light.svg" width="45" />
-        </a><br/>
-        <a href="https://github.com/ps91andr" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub%20( ps91andr )-181717?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-      </td>
-      <!-- whatsapp -->
-      <td align="center">
-        <a href="https://api.whatsapp.com/send?phone=967779373666" target="_blank">
-          <img src="https://raw.githubusercontent.com/homarr-labs/dashboard-icons/main/svg/whatsapp.svg" width="45" />
-        </a><br/>
-        <a href="https://api.whatsapp.com/send?phone=967779373666" target="_blank">
-          <img src="https://img.shields.io/badge/WhatsApp%20(967779373666)-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-        </a>
-      </td>      
-    </tr>
-  </table>
-</p>
 
 
 ---
+
 ## 🧰 Tech Stack 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,ts,python,java,cpp,cs,php,ruby,go,rust,kotlin,swift" />
