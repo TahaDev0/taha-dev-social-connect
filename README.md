@@ -1,3 +1,6 @@
+html {
+  scroll-behavior: smooth;
+}
 # taha-dev-social-hub
 ✨ repository that brings together all my social platforms and account links, along with my professional communication channels as a developer, in one organized central point that makes it easier to connect with me and ensures faster access and smoother interaction.
 <p align="center">
@@ -151,7 +154,9 @@
 <a href="#new-projects" style="scroll-behavior: smooth;">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Click%20here%20to%20scroll%20to%20projects%20page%7C%D8%A7%D8%B6%D8%BA%D8%B7%20%D9%87%D9%86%D8%A7%20%D9%84%D9%84%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84%20%D9%84%D9%82%D8%B3%D9%85%20%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9&fontSize=20&fontAlignY=70" />
 </a>
-
+<a href="javascript:void(0);" onclick="document.getElementById('new-projects').scrollIntoView({ behavior: 'smooth' });">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&text=Click%20here%20to%20scroll%20to%20projects%20page%7C%D8%A7%D8%B6%D8%BA%D8%B7%20%D9%87%D9%86%D8%A7%20%D9%84%D9%84%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84%20%D9%84%D9%82%D8%B3%D9%85%20%D8%A7%D9%84%D9%85%D8%B4%D8%A7%D8%B1%D9%8A%D8%B9&fontSize=20&fontAlignY=70" />
+</a>
 ---
 
 ## 🧰 Tech Stack 
