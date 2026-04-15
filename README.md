@@ -219,5 +219,5 @@ If you like my work, consider giving a ⭐ to my repositories!
 | [Office-Protection-Password-Remover-All-in-One](https://github.com/TahaDev0/Office-Protection-Remover)                     | Office-Protection-Password-Remover-All-in-One                    |  1-Beginner |
 | [TDevUltimateOfficeToolkit](https://github.com/TahaDev0/TDevUltimateOfficeToolkit)                     | TDevUltimateOfficeToolkit                    |  1-Beginner |
 | [G-MScreen-PC-Remote-Control-all-Version](https://github.com/TahaDev0/G-MScreen-PC-Remote-Control-all-Version)                     | G-MScreen-PC-Remote-Control-all-Version                    |  1-Beginner-all-Version |
-
+| [TDevEArchive v26.1 Beta](https://github.com/TahaDev0/TDevEArchive)                     | TDevEArchive v26.1 Beta                    |  1-Beginner-Beta-Version |
 
